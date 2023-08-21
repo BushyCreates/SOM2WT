@@ -1,4 +1,5 @@
 # SOM2WT
+
 Converts Somtoday Schedule Data to an PDF File
 
 Made for just a couple of friends of mine so they dont have to create an schedule for school every week
